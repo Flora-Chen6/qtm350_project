@@ -1,1 +1,9 @@
-# qtm350_project
+# QTM-350 Final Project
+
+### Introduction
+
+
+### Design/Architecture
+
+
+### Data 
