@@ -1,0 +1,12 @@
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "en", "Score": 0.9991396069526672}], "Line": 0}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.9993438720703125}], "Line": 1}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "zh", "Score": 1.0}], "Line": 2}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.9378343820571899}], "Line": 3}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "en", "Score": 0.8727843761444092}, {"LanguageCode": "zh", "Score": 0.12370053678750992}], "Line": 4}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "en", "Score": 0.718024492263794}, {"LanguageCode": "de", "Score": 0.2785932123661041}], "Line": 5}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.9527594447135925}], "Line": 6}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "en", "Score": 0.9883882403373718}], "Line": 7}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.9980751872062683}], "Line": 8}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.9995729327201843}], "Line": 9}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.9987492561340332}], "Line": 10}
+{"File": "LanguageTest_Chinese_German_English.txt", "Languages": [{"LanguageCode": "de", "Score": 0.7794945240020752}, {"LanguageCode": "en", "Score": 0.21607181429862976}], "Line": 11}
