@@ -14,5 +14,5 @@ We put forward hypothesis to investigate and test the performance and accuracy o
 The diagram illustrates the overall outline of what AWS services were utilized in this architecture.
 <img src="https://github.com/Flora-Chen6/qtm350_project/blob/main/architecture.png" width=60% height=60%>
 
-### Data Preparation
-
+### Data Preparation and Collection
+To ensure diversity of the data and the effectiveness of different hypothesis testing, we generate and collect data from a variety of sources, including our own generation, auto-translation tool, reviews/comments online. By providing a wide range of data, we aim to test the accuracy of Amazon Comprehend and identify its performance under different circumstances.
