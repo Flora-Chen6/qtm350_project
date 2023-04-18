@@ -1,4 +1,4 @@
-# QTM350 Final Project
+# QTM 350 Final Project
 
 ## Introduction
 Automated text extraction and comprehension are attractive to different interest groups because these methods can digest thousands of different online text sources at once to track adjusting attitudes to specific changes. However, due to the subjectivity of textual human speech, machines have traditionally failed to understand nuanced human terminology. With growing demands to analyze text more automatically, we seek to test Amazon Comprehend advertising this capability. We aim to see how this service works and if it may be a reliable tool for accurately digesting complex and subjective human speech.
