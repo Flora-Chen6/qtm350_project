@@ -1,4 +1,4 @@
-# QTM350 Final Project
+# QTM 350 Final Project
 
 ## Introduction
 Automated text extraction and comprehension are attractive to different interest groups because these methods can digest thousands of different online text sources at once to track adjusting attitudes to specific changes. However, due to the subjectivity of textual human speech, machines have traditionally failed to understand nuanced human terminology. With growing demands to analyze text more automatically, we seek to test Amazon Comprehend advertising this capability. We aim to see how this service works and if it may be a reliable tool for accurately digesting complex and subjective human speech.
@@ -14,5 +14,5 @@ We put forward hypothesis to investigate and test the performance and accuracy o
 The diagram illustrates the overall outline of what AWS services were utilized in this architecture.
 <img src="https://github.com/Flora-Chen6/qtm350_project/blob/main/architecture.png" width=60% height=60%>
 
-### Data Preparation
-
+### Data Preparation and Collection
+To ensure diversity of the data and the effectiveness of different hypothesis testing, we generate and collect data from a variety of sources, including our own generation, auto-translation tool, reviews/comments online. By providing a wide range of data, we aim to test the accuracy of Amazon Comprehend and identify its performance under different circumstances.
