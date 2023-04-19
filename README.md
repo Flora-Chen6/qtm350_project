@@ -35,4 +35,4 @@ Targeted Sentiment generally has a low accuracy. It does a better job identifyin
 ## Conclusion
 We acknowledge the limitations of our research, particularly the small size of our dataset, which could affect the reliability of our findings. In the future, it may be worth exploring AWS Comprehend's performance on different sources such as social media posts and newspapers, and comparing its performance on various text sources. Moreover, researchers could also investigate AWS Comprehend's performance in different languages besides English.
 
-
+You can access our webpage through the [link](https://myawsbucket-groupproject.s3.amazonaws.com/Amazon_Comprehend_Blog+(1).html).
